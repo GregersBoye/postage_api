@@ -13,7 +13,7 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"Postage\\": "src/"}
+        "psr-0": {"Postage": "src/"}
     }
 
 }
