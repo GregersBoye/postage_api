@@ -1,0 +1,15 @@
+{
+    "name": "gregers/postage_api",
+    "description": "A package for using the postage-api through composer",
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Gregers Boye-Jacobsen",
+            "email": "gregers.boye@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
