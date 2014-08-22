@@ -1,5 +1,5 @@
 {
-    "name": "gregers/postage_api",
+    "name": "gregersboye/postage_api",
     "description": "A package for using the postage-api through composer",
     "require": {
         "guzzlehttp/guzzle": "4.*"
