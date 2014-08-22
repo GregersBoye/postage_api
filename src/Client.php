@@ -1,6 +1,6 @@
 <?php 
 
-namespace postage;
+namespace Postage;
 
 class Client
 {
